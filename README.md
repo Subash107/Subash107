@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Subash Lama
 
-<!--
-**Subash107/Subash107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | Automation Enthusiast | Cloud Learner**
 
-Here are some ideas to get you started:
+I love building automation pipelines that make development smoother — from GitHub Actions to Terraform and Docker deployments.  
+Currently working on:
+- 🔧 Automating GCP deployments using Terraform & GitHub Actions
+- 🐍 Building DriveUploader – a Python automation toolkit
+- ☁️ Deploying static sites with Docker & CI/CD pipelines
+---
+### 🧰 Tech Stack
+**Languages:** Python, PowerShell, Bash, Go (learning)  
+**Tools:** Docker, Terraform, GitHub Actions, Ansible  
+**Cloud:** AWS, GCP  
+**Version Control:** Git & GitHub  
+**OS:** Ubuntu, Windows (WSL)
+---
+### 📫 Let's Connect
+[![GitHub](https://img.shields.io/badge/GitHub-Subash107-black?logo=github)](https://github.com/Subash107)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subash_Lama-blue?logo=linkedin)](your-linkedin-url)
+[![YouTube](https://img.shields.io/badge/YouTube-Subash_Lama-red?logo=youtube)](your-youtube-link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎶 *When I'm not automating pipelines, I'm producing post-rock and cinematic/Atmosphere music.*
