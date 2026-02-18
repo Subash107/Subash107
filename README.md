@@ -18,7 +18,8 @@ Currently working on:
 ### 📫 Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-Subash107-black?logo=github)](https://github.com/Subash107)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Subash_Lama-blue?logo=linkedin)](https://www.linkedin.com/in/subash-lama-b319a016b/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subash_Lama-red?logo=youtube)](https://www.youtube.com/@AHalf-h5n)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Listen%20Now-orange?logo=soundcloud&logoColor=white)](https://soundcloud.com/subash-lama-408609351)
+
 
 
 ---
