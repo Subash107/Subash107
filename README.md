@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Subash Lama  
 
-🚀 **System Administrator | DevOps | Automation Enthusiast | Cloud Learner**
+System Administrator | DevOps & Automation | Cyber Security Practitioner | Python & DSA Enthusiast | Cloud Learner
 
 I manage and optimize systems while continuously strengthening my automation and cloud engineering skills.  
 My focus is on building stable, secure infrastructure and improving deployment efficiency through scripting, Infrastructure as Code, and modern operational practices.
