@@ -1,35 +1,118 @@
+👋 Hi, I'm Subash Lama
 
-# 👋 Hi, I'm Subash Lama  
+System Administrator | DevOps & Automation Engineer | Cyber Security Practitioner | Cloud & Infrastructure Learner
 
-System Administrator | DevOps & Automation | Cyber Security Practitioner | Python & DSA Enthusiast | Cloud Learner
+I build and manage reliable infrastructure while continuously improving my skills in automation, DevOps, and security engineering.
+My work focuses on infrastructure automation, containerized deployments, monitoring systems, and security-focused operations.
 
-I manage and optimize systems while continuously strengthening my automation and cloud engineering skills.  
-My focus is on building stable, secure infrastructure and improving deployment efficiency through scripting, Infrastructure as Code, and modern operational practices.
+I enjoy designing real-world lab environments to experiment with DevOps pipelines, threat detection, and cloud-native infrastructure.
 
----
+🔭 Current Focus
 
-### 🔨 Currently Improving & Exploring
+Infrastructure as Code using Terraform
 
-- ⚙️ Infrastructure as Code with **Terraform**
-- 🔄 CI/CD pipeline design using **GitHub Actions**
-- 🐍 Automation scripting with **Python**
-- 📚 Deepening knowledge in **Python Data Structures & Algorithms**
-  - Arrays, Linked Lists, Stacks, Queues  
-  - Recursion & Problem Solving  
-  - Time & Space Complexity (Big-O thinking)
-- 🖥 Linux system administration and performance tuning
-- 📦 Containerization with **Docker**
-- ☁️ Cloud fundamentals across **AWS & GCP**
+CI/CD pipeline design with GitHub Actions
 
----
+DevOps automation using Python
 
-### 🧰 Core Skills
+Dockerized application deployments
 
-**Programming & Scripting:** Python, PowerShell, Bash, Go (learning)  
-**Automation & Infrastructure:** Docker, Terraform, GitHub Actions, Ansible  
-**Cloud Platforms:** AWS, GCP  
-**Version Control:** Git & GitHub  
-**Operating Systems:** Ubuntu, Windows (WSL)
+Building a Cyber Security Research Lab
+
+Security monitoring using Wazuh, Sysmon, Suricata
+
+Network monitoring and DNS filtering with Pi-hole
+
+Reverse proxy and traffic inspection with mitmproxy
+
+Linux system administration and performance tuning
+
+Cloud infrastructure fundamentals (AWS & GCP)
+
+⚙️ DevOps & Automation
+
+Infrastructure provisioning with Terraform
+
+CI/CD workflows using GitHub Actions
+
+Automation scripting using Python, Bash, PowerShell
+
+Containerization and service orchestration using Docker & Docker Compose
+
+Git based workflow and repository management
+
+🛡 Cyber Security & Monitoring
+
+Wazuh SIEM deployment and log monitoring
+
+Endpoint telemetry with Sysmon
+
+Network threat detection using Suricata IDS
+
+DNS filtering and network protection with Pi-hole
+
+Traffic inspection and debugging with mitmproxy
+
+Building detection pipelines aligned with MITRE ATT&CK
+
+🧰 Technical Skills
+Programming & Scripting
+
+Python
+
+PowerShell
+
+Bash
+
+Go (learning)
+
+DevOps & Infrastructure
+
+Docker
+
+Terraform
+
+GitHub Actions
+
+Ansible (learning)
+
+Cloud Platforms
+
+AWS
+
+GCP
+
+Operating Systems
+
+Ubuntu Linux
+
+Windows Server / Windows 11
+
+WSL
+
+Monitoring & Security Tools
+
+Wazuh
+
+Suricata
+
+Sysmon
+
+Pi-hole
+
+mitmproxy
+
+📚 Continuous Learning
+
+Python Data Structures & Algorithms
+
+Cloud infrastructure architecture
+
+DevSecOps practices
+
+Security monitoring and threat detection
+
+Automation-first system administration
 
 ---
 
