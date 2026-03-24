@@ -78,7 +78,7 @@
 
 ## Connect
 
-- Website: [subash107.github.io](https://subash107.github.io)
+- Website: [subash107.github.io]([https://subash107.github.io](https://subash107.github.io/SubashLamaProfile/))
 - LinkedIn: [subash-lama-b319a016b](https://www.linkedin.com/in/subash-lama-b319a016b/)
 - GitHub: [@Subash107](https://github.com/Subash107)
 
