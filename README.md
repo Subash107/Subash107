@@ -1,124 +1,43 @@
-👋 Hi, I'm Subash Lama
+# Hi, I'm Subash Lama
 
-System Administrator | DevOps & Automation Engineer | Cyber Security Practitioner | Cloud & Infrastructure Learner
+System Administrator | DevOps and Automation Engineer | Security-Focused Infrastructure Builder
 
-I build and manage reliable infrastructure while continuously improving my skills in automation, DevOps, and security engineering.
-My work focuses on infrastructure automation, containerized deployments, monitoring systems, and security-focused operations.
+I build practical infrastructure, automation, and security projects with a strong focus on hands-on labs, repeatable workflows, and real-world system operations. My recent work combines Python, PowerShell, browser-extension engineering, monitoring stacks, and security-focused tooling.
 
-I enjoy designing real-world lab environments to experiment with DevOps pipelines, threat detection, and cloud-native infrastructure.
+## Current Highlights
 
-🔭 Current Focus
+- [pentest-helper](https://github.com/Subash107/pentest-helper)
+  Config-driven pentest workflow helper with vulnerability checklist support and a native-host bookmark backup extension showcase
+- [wazuh-docker-stack-2](https://github.com/Subash107/wazuh-docker-stack-2)
+  Security monitoring and lab-oriented infrastructure built around Wazuh and Docker
+- [nativus_erp_with_prometheus_grafana_v6](https://github.com/Subash107/nativus_erp_with_prometheus_grafana_v6)
+  ERP observability and monitoring stack with Prometheus, Grafana, and GitHub Actions
+- [Scripts](https://github.com/Subash107/Scripts)
+  Automation and utility scripting for daily administration and operations work
 
-Infrastructure as Code using Terraform
+## Focus Areas
 
-CI/CD pipeline design with GitHub Actions
+- DevOps automation with Python, PowerShell, Bash, and Git-based workflows
+- Security monitoring and defensive engineering with Wazuh, Suricata, Sysmon, and Pi-hole
+- Containerized lab environments using Docker and Docker Compose
+- CI/CD experimentation with GitHub Actions
+- Infrastructure learning across Linux, Windows, WSL, AWS, and GCP
 
-DevOps automation using Python
+## GitHub Highlights
 
-Dockerized application deployments
+- Built and organized `pentest-helper` into a stronger showcase repository with a real pull-request workflow
+- Added a bookmark backup browser extension that uses a Windows native host for exact-path local backups
+- Active GitHub achievements currently visible on my profile: `Pull Shark` and `Quickdraw`
 
-Building a Cyber Security Research Lab
+## Current Learning Path
 
-Security monitoring using Wazuh, Sysmon, Suricata
+- Terraform and infrastructure as code
+- Cloud infrastructure architecture
+- DevSecOps practices
+- Detection engineering and lab-driven security workflows
 
-Network monitoring and DNS filtering with Pi-hole
-
-Reverse proxy and traffic inspection with mitmproxy
-
-Linux system administration and performance tuning
-
-Cloud infrastructure fundamentals (AWS & GCP)
-
-⚙️ DevOps & Automation
-
-Infrastructure provisioning with Terraform
-
-CI/CD workflows using GitHub Actions
-
-Automation scripting using Python, Bash, PowerShell
-
-Containerization and service orchestration using Docker & Docker Compose
-
-Git based workflow and repository management
-
-🛡 Cyber Security & Monitoring
-
-Wazuh SIEM deployment and log monitoring
-
-Endpoint telemetry with Sysmon
-
-Network threat detection using Suricata IDS
-
-DNS filtering and network protection with Pi-hole
-
-Traffic inspection and debugging with mitmproxy
-
-Building detection pipelines aligned with MITRE ATT&CK
-
-🧰 Technical Skills
-Programming & Scripting
-
-Python
-
-PowerShell
-
-Bash
-
-Go (learning)
-
-DevOps & Infrastructure
-
-Docker
-
-Terraform
-
-GitHub Actions
-
-Ansible (learning)
-
-Cloud Platforms
-
-AWS
-
-GCP
-
-Operating Systems
-
-Ubuntu Linux
-
-Windows Server / Windows 11
-
-WSL
-
-Monitoring & Security Tools
-
-Wazuh
-
-Suricata
-
-Sysmon
-
-Pi-hole
-
-mitmproxy
-
-📚 Continuous Learning
-
-Python Data Structures & Algorithms
-
-Cloud infrastructure architecture
-
-DevSecOps practices
-
-Security monitoring and threat detection
-
-Automation-first system administration
-
----
-
-### 📫 Connect With Me
+## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Subash107-black?logo=github)](https://github.com/Subash107)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Subash_Lama-blue?logo=linkedin)](https://www.linkedin.com/in/subash-lama-b319a016b/)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-Listen%20Now-orange?logo=soundcloud&logoColor=white)](https://soundcloud.com/subash-lama-408609351)
-
