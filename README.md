@@ -1,7 +1,7 @@
 # Subash Lama
 
 <p align="center">
-  <b>System Admin | Cybersecurity | Security Monitoring | CI/CD Automation | Cloud & Defensive Engineering</b>
+  <b>System Administrator | Cybersecurity Enthusiast | Cloud Infrastructure | Security Monitoring | CI/CD Automation | Cloud & Defensive Engineering</b>
 </p>
 
 <p align="center">
