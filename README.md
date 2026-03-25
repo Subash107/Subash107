@@ -1,11 +1,11 @@
 # Subash Lama
 
 <p align="center">
-  <b>DevSecOps | Cybersecurity | CI/CD | Docker | Monitoring | Cloud Security</b>
+  <b>DevSecOps | Cybersecurity | Security Monitoring | CI/CD Automation | Cloud & Defensive Engineering</b>
 </p>
 
 <p align="center">
-  I build practical open-source projects around automation, observability, and security engineering.
+  I build practical open-source projects around secure infrastructure, observability, automation, and blue-team operations.
 </p>
 
 <p align="center">
@@ -24,23 +24,31 @@
   <tr>
     <td valign="top" width="52%">
 
-## About Me
+## Professional Summary
 
 - Based in Kathmandu, Nepal
-- Building practical DevOps and security projects in public
-- Focused on workflows that are reusable, documented, and useful to others
-- Interested in CI/CD, containerization, monitoring, SIEM, and defensive engineering
+- Focused on DevSecOps, defensive security, monitoring, and infrastructure automation
+- Building documented, reusable projects around Docker, CI/CD, SIEM, observability, and security operations
+- Comfortable working across Linux and Windows environments
+
+## Core Skills
+
+- CI/CD and automation with GitHub Actions and deployment workflows
+- Docker, Docker Compose, Linux operations, and container-based environments
+- Monitoring and observability with Prometheus, Grafana, Alertmanager, and Blackbox Exporter
+- Security operations with Wazuh, detection-oriented lab design, and response playbooks
+- Scripting with PowerShell, Python, Bash, and operational tooling
+- AWS, cloud security fundamentals, and secure systems thinking
 
 ## Current Focus
 
-- GitHub Actions and CI/CD automation
-- Docker-based deployments and Linux workflows
-- Monitoring with Prometheus, Grafana, and Wazuh
-- Security labs and defensive tooling
+- Building practical SOC and monitoring labs with Wazuh, Prometheus, and Grafana
+- Improving rollout safety, validation tooling, runbooks, and recovery workflows
+- Publishing hands-on DevSecOps and cybersecurity projects that others can learn from
 
-## Tech Areas
+## Tech Stack
 
-`GitHub Actions` `Docker` `Linux` `Prometheus` `Grafana` `Wazuh` `AWS` `Cloud Security`
+`GitHub Actions` `Docker` `Linux` `PowerShell` `Python` `Prometheus` `Grafana` `Alertmanager` `Wazuh` `AWS` `Cloud Security`
 
   </td>
   <td valign="top" width="48%">
@@ -56,22 +64,22 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <b><a href="https://github.com/Subash107/pentest-helper">pentest-helper</a></b><br />
-      Practical toolkit for repeatable penetration testing workflows, recon, and reporting.
+      <b><a href="https://github.com/Subash107/wazuh-docker-stack-2">wazuh-docker-stack-2</a></b><br />
+      Security monitoring and blue-team lab built with Wazuh, Prometheus, Grafana, Alertmanager, runbooks, validation tooling, and incident response playbooks.
     </td>
     <td valign="top" width="50%">
-      <b><a href="https://github.com/Subash107/wazuh-docker-stack-2">wazuh-docker-stack-2</a></b><br />
-      DevSecOps monitoring stack with Wazuh, Prometheus, Grafana, Alertmanager, and runbooks.
+      <b><a href="https://github.com/Subash107/pentest-helper">pentest-helper</a></b><br />
+      Practical toolkit for repeatable penetration testing workflows, recon, note-taking, and reporting.
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <b><a href="https://github.com/Subash107/SubashLamaProfile">SubashLamaProfile</a></b><br />
-      Static portfolio site with GitHub Actions CI/CD, Docker/nginx deployment, and security hardening.
+      Personal portfolio site with GitHub Actions CI/CD, Docker and nginx deployment, and security-focused delivery practices.
     </td>
     <td valign="top" width="50%">
       <b><a href="https://github.com/Subash107/nativus_erp_with_prometheus_grafana_v6">nativus_erp_with_prometheus_grafana_v6</a></b><br />
-      ERP application environment instrumented with Prometheus and Grafana for observability practice.
+      ERP application environment instrumented with Prometheus and Grafana for observability, monitoring, and operations practice.
     </td>
   </tr>
 </table>
@@ -82,4 +90,4 @@
 - LinkedIn: [subash-lama-b319a016b](https://www.linkedin.com/in/subash-lama-b319a016b/)
 - GitHub: [@Subash107](https://github.com/Subash107)
 
-I'm always learning, building, and improving in public.
+I enjoy building practical systems that make infrastructure and security work more observable, repeatable, and easier to operate.
